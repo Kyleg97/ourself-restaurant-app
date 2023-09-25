@@ -1,16 +1,15 @@
-# restaurant_app
+# ourself_restaurant_app
 
-A new Flutter project.
+Coding test for Ourself using Flutter.
 
-## Getting Started
+## Running the project
 
-This project is a starting point for a Flutter application.
+The quickest way to get and run the project:
 
-A few resources to get you started if this is your first Flutter project:
+`git clone https://github.com/Kyleg97/ourself-restaurant-app.git`
+then, with an emulator running:
+`flutter run` in the project directory.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Alternatively, you can open the project in VS code or Android Studio and run it through there.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
